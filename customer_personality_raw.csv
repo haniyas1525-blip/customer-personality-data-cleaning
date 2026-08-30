@@ -1,0 +1,32 @@
+CustomerID,Year_Birth,Education,Marital_Status,Income,Kidhome,Teenhome,Dt_Customer,Country,Spent
+1001,1985,Graduation,Single,45000.0,0.0,1,15-01-2024,India,650
+1002,1972,PhD,Married,72000.0,1.0,1,22-02-2024,India,980
+1003,1990,graduation,Single,38000.0,0.0,0,05-03-2024,India,420
+1004,1982,Master,Married,61000.0,1.0,0,18-03-2024,India,760
+1005,1978,PhD,Divorced,55000.0,0.0,1,27-03-2024,India,810
+1006,1988,Graduation,Single,,0.0,0,02-04-2024,India,390
+1007,1975,Master,Married,68000.0,1.0,1,14-04-2024,India,920
+1008,1992,Graduation,Single,41000.0,0.0,0,29-04-2024,india,350
+1009,1980,PhD,Married,76000.0,2.0,1,10-05-2024,India,1100
+1010,1986, Master ,Single,47000.0,0.0,1,25-05-2024,India,510
+1011,1970,Graduation,Married,59000.0,1.0,1,08-06-2024,India,730
+1012,1989,PhD,Single,52000.0,0.0,0,21-06-2024,India,640
+1013,1983,Graduation,Married,63000.0,1.0,0,03-07-2024,India,850
+1014,1977,Master,Divorced,50000.0,0.0,1,16-07-2024,India,670
+1015,1991,Graduation,Single,36000.0,0.0,0,30-07-2024,India,310
+1016,1984,PhD,Married,82000.0,1.0,1,12-08-2024,India,1250
+1017,1973,Master,Married,64000.0,1.0,0,26-08-2024,India,780
+1018,1987,Graduation,Single,44000.0,0.0,1,09-09-2024,India,480
+1019,1979,PhD,Married,71000.0,1.0,1,23-09-2024,India,990
+1020,1985,Graduation,Single,45000.0,0.0,1,07-10-2024,India,650
+1020,1985,Graduation,Single,45000.0,0.0,1,07-10-2024,India,650
+1021,1990, graduation ,Single,39000.0,0.0,0,20-10-2024,INDIA,400
+1022,1981,Master,Married,,1.0,0,02-11-2024,India,720
+1023,1976,PhD,Divorced,57000.0,0.0,1,15-11-2024,India,690
+1024,1988,Graduation,Single,42000.0,,0,28-11-2024,India,430
+1025,1982,Master,Married,61000.0,1.0,0,10-12-2024,India,760
+1026,1974,PhD,Married,69000.0,1.0,1,24-12-2024,India,940
+1027,1993,Graduation,Single,35000.0,0.0,0,05-01-2025,India,280
+1028,1980,Master,Married,60000.0,1.0,0,19-01-2025,India,710
+1029,1986,PhD,Single,54000.0,0.0,1,01-02-2025,India,620
+1029,1986,PhD,Single,54000.0,0.0,1,01-02-2025,India,620
